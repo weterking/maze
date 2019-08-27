@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/picture"/>
+    <qresource prefix="/">
+        <file>picture/interface.jpg</file>
+        <file>picture/character.jpg</file>
+        <file>picture/StartButton.jpg</file>
+        <file>picture/height.jpg</file>
+        <file>picture/width.jpg</file>
+        <file>picture/2.jpg</file>
+        <file>picture/background.jpg</file>
+        <file>picture/find1.jpg</file>
+        <file>picture/find2.jpg</file>
+        <file>picture/gif.gif</file>
+        <file>picture/white.png</file>
+        <file>picture/make.jpg</file>
+        <file>picture/save.jpg</file>
+        <file>picture/showRoad.jpg</file>
+        <file>picture/fileroad.jpg</file>
+        <file>picture/character1.jpg</file>
+        <file>picture/character2.jpg</file>
+        <file>picture/character3.jpg</file>
+        <file>picture/character4.jpg</file>
+        <file>picture/1.jpg</file>
+    </qresource>
+</RCC>
